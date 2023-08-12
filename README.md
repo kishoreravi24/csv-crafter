@@ -1,4 +1,4 @@
-# csv-crafter
+# csvcrafter
 
 Craft CSV files effortlessly. This package equips you with the tools to construct, adjust, and enhance CSV data in a way that suits your needs.
 
