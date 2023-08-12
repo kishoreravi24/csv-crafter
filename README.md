@@ -9,7 +9,7 @@ npm install csv-crafter
 ```
 ### Test code
 ```Js
-const Csv = require('../csv');
+const Csv = require('csv-crafter');
 const path = require('path');
 
 const filePath = path.join(__dirname, 'addresses.csv');
