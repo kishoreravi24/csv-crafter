@@ -5,11 +5,11 @@ Craft CSV files effortlessly. This package equips you with the tools to construc
 ## Installation
 
 ```bash
-npm install csv-crafter
+npm install csvcrafter
 ```
 ### Test code
 ```Js
-const Csv = require('csv-crafter');
+const Csv = require('csvcrafter');
 const path = require('path');
 
 const filePath = path.join(__dirname, 'addresses.csv');

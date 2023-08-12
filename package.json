@@ -1,8 +1,8 @@
 {
-  "name": "csv-crafter",
+  "name": "csvcrafter",
   "version": "1.0.0",
   "description": "Craft CSV files effortlessly. This package equips you with the tools to construct, adjust, and enhance CSV data in a way that suits your needs.",
-  "main": "csv-crafter.js",
+  "main": "csvcrafter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
