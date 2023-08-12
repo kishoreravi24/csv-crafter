@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kishoreravi24/csv-crafter.git"
+    "url": "git+https://github.com/kishoreravi24/csvcrafter.git"
   },
   "author": "kishoreravi24",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kishoreravi24/csv-crafter/issues"
+    "url": "https://github.com/kishoreravi24/csvcrafter/issues"
   },
-  "homepage": "https://github.com/kishoreravi24/csv-crafter#readme"
+  "homepage": "https://github.com/kishoreravi24/csvcrafter#readme"
 }
