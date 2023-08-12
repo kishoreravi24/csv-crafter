@@ -1,0 +1,19 @@
+{
+  "name": "csvcrafter",
+  "version": "1.0.0",
+  "description": "Craft CSV files effortlessly. This package equips you with the tools to construct, adjust, and enhance CSV data in a way that suits your needs.",
+  "main": "csvcrafter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishoreravi24/csvcrafter.git"
+  },
+  "author": "kishoreravi24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kishoreravi24/csvcrafter/issues"
+  },
+  "homepage": "https://github.com/kishoreravi24/csvcrafter#readme"
+}
